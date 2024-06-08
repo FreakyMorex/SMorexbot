@@ -1,1 +1,1 @@
-# SMorexbot
+# SMorex Bot
